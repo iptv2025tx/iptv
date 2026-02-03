@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="",00s Replay
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c25e430-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1b7de8e4-d114-4438-b098-6f7aee77b4be
+http://cfd-v4-service-channel-stitcher-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/62ba60f059624e000781c436/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=c73141bc-d34d-4e48-a700-a7ba08f3f64d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=1281818a-0db5-4093-86a2-5d0014c5dece&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="48Hours.us@SD",48 Hours [Samsung TV Plus alt]
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="48Hours.us@SD",48 Hours
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263250-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c0b95c9-8da8-4149-8f7a-ba568202266f
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6176f39e709f160007ec61c3/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=30386fb6-b0ed-46d1-8caa-db7f0d042980&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=c6782eab-a62a-4d58-a949-28d6464e95e1&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="70sCinema.us@SD",70s Cinema
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
 #EXTINF:-1 tvg-id="80sRewind.us@SD",80s Rewind
@@ -653,3 +653,4 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3738-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=31531314-3e7f-4788-8c4f-f153a43ee0a0
 #EXTINF:-1 tvg-id="",Zoom! Zoom!
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6452c77ed3fdde00080eb3a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d3739-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=61bcf170-9a7d-4ad9-8836-366120619cff
+
